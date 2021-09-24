@@ -16,4 +16,4 @@ Audio files come in different forms, such as WAV or MP3. Certain programs only u
 
 Things to keep in mind:
 	If your file name has spaces in it, you will want to put quotation marks around the file. 
-		Example: “your file name.wav”
+		Example: Use the file name "your_file_name.wav" as opposed to “your file name.wav”
