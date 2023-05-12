@@ -1,2 +1,2 @@
 # andrewsportfolio
-A collection of technical writing documentation done by Andrew Saku.
+A collection of technical writing documentation and research documentation writtien by Andrew Saku.
